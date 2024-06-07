@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: Usawco_origin_sourceProject
+  gitServerName: usawco github
+  gitUrl: https://github.com/usawco/Usawco_origin_sourceProject
+  gitUsername: usawco
+  gitBranch: main
